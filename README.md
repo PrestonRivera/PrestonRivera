@@ -10,7 +10,7 @@ I've been learning code for 4 months after switching careers. I started with pyt
 * ✉️  You can contact me at [prestonrivera211@gmail.com](mailto:prestonrivera211@gmail.com)
 * 🚀  I'm currently working on [boot.dev](http://www.boot.dev/u/vastwealth55)
 * 🧠  I'm learning python, markdown, HTML
-* 🤝  I'm open to collaborating on Anything code related.
+* 🤝  I'm open to collaborating on anything code related.
 * ⚡  I'm secretly spiderman but......I don't tell anyone.
 
 <a href="https://www.github.com/PrestonRivera" target="_blank" rel="noreferrer"><img
