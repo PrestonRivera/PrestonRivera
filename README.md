@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/PrestonRivera?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/PrestonRivera/static_site_gen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrestonRivera&repo=static_site_gen&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PrestonRivera/Python_Function_Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrestonRivera&repo=Python_Function_Notes&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/PrestonRivera/static_site_gen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrestonRivera&repo=static_site_gen&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PrestonRivera/asteroids_game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrestonRivera&repo=Python_Function_Notes&title_color=ef4444&text_color=14b8a6&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
