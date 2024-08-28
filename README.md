@@ -1,7 +1,7 @@
-Hi 👋 My name is PrestonRivera
+PRESTON RIVERA
 ==============================
 
-I am a father of three boys and dedicated to becoming a backend developer.
+Hungry to learn it all!!!
 --------------------------------------------------------------------------
 
 I am a new developer and currently working with python. I am in the process of learning GO and java script. I have a few projects that I would love for you to check out. Follow the instructions on the project README files and feel free to tell me what you think! 
