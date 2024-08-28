@@ -4,12 +4,12 @@ Hi 👋 My name is PrestonRivera
 I am a father of three boys and dedicated to becoming a backend developer.
 --------------------------------------------------------------------------
 
-I've been learning code for 4 months after switching careers. I started with python and have a few solo and guided projects completed.
+I am a new developer and currently working with python. I am in the process of learning GO and java script. I have a few projects that I would love for you to check out. Follow the instructions on the project README files and feel free to tell me what you think! 
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [prestonrivera211@gmail.com](mailto:prestonrivera211@gmail.com)
 * 🚀  I'm currently working on [boot.dev](http://www.boot.dev/u/vastwealth55)
-* 🧠  I'm learning python, markdown, HTML
+* 🧠  I'm learning python, markdown, HTML, GO, Java script
 * 🤝  I'm open to collaborating on Anything code related.
 * ⚡  I'm secretly spiderman but......I don't tell anyone.
 
