@@ -1,10 +1,10 @@
 PRESTON RIVERA
 ==============================
 
-Software Dev
+Backend Developer
 --------------------------------------------------------------------------
 
-I am a developer with Python, SQL, Golang, C, and JavaScript experience. I have a few projects that I would love for you to check out. Follow the instructions on the projects README files and feel free to tell me what you think! 
+I'm a software developer with Python, SQL, Golang, C, and JavaScript experience. I have a few projects that I would love for you to check out. Follow the instructions on the projects README files and feel free to tell me what you think! 
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [prestonrivera211@gmail.com](mailto:prestonrivera211@gmail.com)
