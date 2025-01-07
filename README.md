@@ -1,10 +1,10 @@
 PRESTON RIVERA
 ==============================
 
-Hungry to learn it all!!!
+Software Dev
 --------------------------------------------------------------------------
 
-I am a new developer and currently working with python. I am in the process of learning GO and java script. I have a few projects that I would love for you to check out. Follow the instructions on the project README files and feel free to tell me what you think! 
+I am a developer with Python, SQL, Golang, C, and JavaScript experience. I have a few projects that I would love for you to check out. Follow the instructions on the projects README files and feel free to tell me what you think! 
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [prestonrivera211@gmail.com](mailto:prestonrivera211@gmail.com)
