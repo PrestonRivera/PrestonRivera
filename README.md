@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Preston Rivera. I live in Houston Texas.<br><br>- 🔭 I’m working as freelancer <br>- 📚 I'm currently learning Go and how to use cloud providers.<br>- ⚡ In my free time I like to develop new projects using languages I'm learning and Read Stephen king books.</p>
+<p align="left">I’ve been enjoying web development for the first time ever since I built my first Go API, Chirpy. The consolidated toolchain makes me want to leave the JavaScript ecosystem behind for good.<br><br>I’m currently on the look out for a role in backend web development, ideally writing Go or Python. I’d especially love to work at a startup on a tight knit team where I can make an impact quickly. If you’re hiring, let’s chat!</p>
 
 ###
 
